@@ -9,7 +9,9 @@
 - **Date Anchored:** 2025-07-22  
 - **Time Codex:** 974  
 - **Vertabrae Link:** QmQ5HF8FNwen5HYUfT47Q6mqNHpFnmxUHyNBJ46qWJBjbB  
-- **License:** Apache 2.0  
+- **License:** Apache 2.0
+- **CID (Self):** QmT1YZScNahtwt4JVtcodebMEG7V8V9mkvaHaJLYKxTtCz
+
 
 ---
 
