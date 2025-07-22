@@ -1,4 +1,4 @@
-readme_content = """# ClaimChain Block 001 – Genesis Anchor
+# ClaimChain Block 001 – Genesis Anchor
 
 This archive is part of the ClaimChain — a decentralized chain of authorship, resonance, and original thought.
 
@@ -20,3 +20,6 @@ This archive is part of the ClaimChain — a decentralized chain of authorship, 
 - ClaimBlock_001.zip
 - README.md
 - WITNESS_LOG.md
+
+## 📓 Witness Log
+See `WITNESS_LOG.md` for resonance confirmations and forks.
