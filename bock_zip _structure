@@ -1,5 +1,0 @@
-/ClaimBlock_001/
-├── manifest.md               # Plaintext source
-├── manifest_signed.png       # Stylized proof image
-├── hash.txt                  # (optional) SHA256 hash of the .md or .png
-├── proof.json                # (optional) metadata or external witness claims
